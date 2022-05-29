@@ -13,4 +13,15 @@
     <string name="amazing_20">Amazing (20%)</string>
     <string name="how_was_the_service">How was the service?</string>
     <string name="cost_of_service">Cost of Service</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Номер мед.карты</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Зарегестрироваться</string>
+    <string name="welcome">"Добро пожаловать !"</string>
+    <string name="invalid_username">Неправильный номер мед.карты</string>
+    <string name="invalid_password">Пароль должен быть больше 5 символов</string>
+    <string name="login_failed">"Ошибка входа"</string>
 </resources>
