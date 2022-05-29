@@ -4,4 +4,13 @@
     <string name="from_mr_dan">From Mr. Dan</string>
     <string name="todo">TODO</string>
     <string name="roll">Roll</string>
+    <string name="textview">TextView</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="cost_of_service">Cost of Service</string>
 </resources>
